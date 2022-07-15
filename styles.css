@@ -1,0 +1,31 @@
+
+th, td{
+    padding-right: 30px;
+    background-color: LightGrey;
+}
+th{
+    background-color: LightGrey;
+}
+td{
+    padding-right: 30px;
+    background-color: Lavender;
+}
+
+#company{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 40px;.
+    text-emphasis: underline;
+    color: DodgerBlue;
+}
+.offer{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-emphasis: underline;
+    color: DodgerBlue;
+}
+
+.navbar{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-emphasis: underline;
